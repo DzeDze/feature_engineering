@@ -9,3 +9,6 @@ wheels/
 # Virtual environments
 .venv
 .DS_Store
+
+# large dataset
+online_retail_II.xlsx
